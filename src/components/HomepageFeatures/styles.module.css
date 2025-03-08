@@ -1,0 +1,43 @@
+.features {
+  display: flex;
+  align-items: center;
+  background-image: image('./static/background.jpeg');
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.image1 {
+  content: var(--image1);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: auto;
+  justify-self: center !important;
+  align-self: center !important;
+  justify-content: center;
+}
+
+.image2 {
+  content: var(--image2);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: auto;
+  justify-self: center !important;
+  align-self: center !important;
+}
+
+.image3 {
+  content: var(--image3);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: auto;
+  justify-self: center !important;
+  align-self: center !important;
+}

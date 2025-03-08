@@ -1,0 +1,22 @@
+{
+  "id": "src/pages/markdown-page",
+  "title": "Markdown page example",
+  "description": "You don't need React to write simple standalone pages.",
+  "source": "@site/docs/src/pages/markdown-page.md",
+  "sourceDirName": "src/pages",
+  "slug": "/src/pages/markdown-page",
+  "permalink": "/docs/src/pages/markdown-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/src/pages/markdown-page.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Markdown page example"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/docs/tutorial-extras/translate-your-site"
+  }
+}

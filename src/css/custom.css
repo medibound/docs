@@ -1,0 +1,126 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #01775a;
+  --ifm-color-primary-dark: #016b51;
+  --ifm-color-primary-darker: #01654d;
+  --ifm-color-primary-darkest: #01533f;
+  --ifm-color-primary-light: #018363;
+  --ifm-color-primary-lighter: #018968;
+  --ifm-color-primary-lightest: #019b75;
+  --ifm-background-color: transparent !important;
+  --ifm-background-surface-color: transparent !important;
+  --ifm-color-content: #001c14 !important;
+  --ifm-navbar-padding-vertical: 10px !important;
+  --ifm-navbar-padding-horizontal: 30px !important;
+  --ifm-footer-padding-horizontal: 30px !important;
+  --ifm-navbar-height: 84px;
+  --ifm-font-family-base: 'Rubik', sans-serif;
+  --ifm-code-background: #f1fffc !important;
+  --ifm-footer-background-color: #f1fffc !important;
+  --ifm-color-secondary: #00d6a1;
+  --ifm-color-secondary-dark: #00c191;
+  --ifm-color-secondary-darker: #00b689;
+  --ifm-color-secondary-darkest: #009671;
+  --ifm-color-secondary-light: #00ebb1;
+  --ifm-color-secondary-lighter: #00f6b9;
+  --ifm-color-secondary-lightest: #17ffc6;
+  --ifm-navbar-background-color: #f1fffc !important;
+  --docusaurus-highlighted-code-line-bg: rgb(0,0,0,0.1);
+  --ifm-true-tone: white;
+  --image1: url(@site/static/img/light1mb.png);
+  --image2: url(@site/static/img/light2mb.png);
+  --image3: url(@site/static/img/light3mb.png);
+
+  font-family: 'Rubik', sans-serif;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+}
+
+
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #00d6a1;
+  --ifm-color-primary-dark: #00c191;
+  --ifm-color-primary-darker: #00b689;
+  --ifm-color-primary-darkest: #009671;
+  --ifm-color-primary-light: #00ebb1;
+  --ifm-color-primary-lighter: #00f6b9;
+  --ifm-color-primary-lightest: #17ffc6;
+  --ifm-background-color: transparent !important;
+  --ifm-background-surface-color: transparent !important;
+  --ifm-color-content: #d9fff6 !important;
+  --ifm-code-background: #000b08 !important;
+  --ifm-true-tone: black;
+  --ifm-footer-background-color: #000b08 !important;
+  --ifm-navbar-background-color: #000b08 !important;
+  --ifm-color-secondary: #01775a;
+  --ifm-color-secondary-dark: #016b51;
+  --ifm-color-secondary-darker: #01654d;
+  --ifm-color-secondary-darkest: #01533f;
+  --ifm-color-secondary-light: #018363;
+  --ifm-color-secondary-lighter: #018968;
+  --ifm-color-secondary-lightest: #019b75;
+
+  --image1: url(@site/static/img/dark1mb.png);
+  --image2: url(@site/static/img/dark2mb.png);
+  --image3: url(@site/static/img/dark3mb.png);
+}
+
+body {
+  background: linear-gradient(0deg, var(--ifm-color-secondary) -200%, var(--ifm-true-tone, 100%)) no-repeat center center fixed !important;
+  background-size:inherit;
+  background-repeat: no-repeat;
+}
+/* Header */
+.navbar__title, .heading__title {
+  
+  font-weight: bold;
+  background-image: linear-gradient(0deg, var(--ifm-color-primary, rgb(1, 119, 90)) 0%, var(--ifm-color-content, rgb(0, 28, 20)) 100%) !important;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  line-height: 1 !important;
+}
+
+.navbar__title {
+  font-size: 24px !important;
+}
+.navbar__subpage_title {
+  font-size: 24px !important;
+  font-weight: bold;
+  color: var(--ifm-color-primary) !important;
+  background-image: var(--ifm-color-primary) !important;
+  background-clip: text !important;
+  -webkit-background-clip: text;
+}
+
+.navbar {
+  box-shadow: none !important;
+}
+
+/* Code Blocks */
+
+
+/* Footer */
+.footer {
+  --ifm-footer-padding-horizontal: 30px !important;
+}
+
+/*Button */
+
+.button.button--secondary {
+  background: linear-gradient(0deg, var(--ifm-color-primary) 0%, var(--ifm-color-secondary) 100%) !important;
+  color: white !important;
+  border: none !important
+}
+

@@ -1,0 +1,27 @@
+{
+  "id": "docs/intro",
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/docs/intro.md",
+  "sourceDirName": "docs",
+  "slug": "/docs/intro",
+  "permalink": "/docs/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/blog/2021-08-26-welcome/welcome"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics-1"
+  }
+}
