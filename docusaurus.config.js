@@ -103,18 +103,28 @@ const config = {
         ],
       },
       footer: {
-        logo: {
-          alt: 'Medibound Logo',
-          src: 'img/logo.svg',
-        },
         links: [
           {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Hardware Support',
+                to: '/docs/hardware-support',
               },
+              {
+                label: 'Understand The Basics',
+                to: '/docs/understand-basics',
+              },
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'Medibound Stories',
+                href: 'https://medibound.com/stories',
+              },
+             
             ],
           },
           {
@@ -125,13 +135,21 @@ const config = {
                 href: 'https://github.com/medibound/docs',
               },
               {
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/medibound',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/medibound',
+              },
+              {
                 label: 'Medibound',
                 href: 'https://medibound.com',
               },
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Medibound, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Medibound, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.vsLight,
