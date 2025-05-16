@@ -19,5 +19,9 @@
   "previous": {
     "title": "Raspberry Pi Integration Guide",
     "permalink": "/docs/hardware-support/tabs/raspberry-pi"
+  },
+  "next": {
+    "title": "Organizations",
+    "permalink": "/docs/understand-basics/tabs/organizations"
   }
 }

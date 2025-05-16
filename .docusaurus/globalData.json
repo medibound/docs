@@ -54,8 +54,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/understand-basics/tabs/organizations",
-                "label": "understand-basics/tabs/organizations"
+                "path": "/docs/hardware-support/",
+                "label": "Hardware Support"
               }
             }
           }

@@ -18,10 +18,6 @@
     "description": "Overview of all hardware platforms supported by Medibound"
   },
   "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Agents",
-    "permalink": "/docs/understand-basics/tabs/agents"
-  },
   "next": {
     "title": "ESP32 Integration Guide",
     "permalink": "/docs/hardware-support/tabs/esp32"

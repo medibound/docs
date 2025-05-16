@@ -16,6 +16,10 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Arduino Integration Guide",
+    "permalink": "/docs/hardware-support/tabs/arduino"
+  },
   "next": {
     "title": "Device Profiles",
     "permalink": "/docs/understand-basics/tabs/device-profiles"
