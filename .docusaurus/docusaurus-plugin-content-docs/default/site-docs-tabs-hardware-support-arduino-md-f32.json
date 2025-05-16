@@ -1,0 +1,23 @@
+{
+  "id": "tabs/hardware-support/arduino",
+  "title": "Arduino Integration Guide",
+  "description": "Documentation coming soon",
+  "source": "@site/docs/tabs/hardware-support/arduino.md",
+  "sourceDirName": "tabs/hardware-support",
+  "slug": "/tabs/hardware-support/arduino",
+  "permalink": "/docs/tabs/hardware-support/arduino",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/tabs/hardware-support/arduino.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Raspberry Pi Integration Guide",
+    "permalink": "/docs/tabs/hardware-support/raspberry-pi"
+  }
+}

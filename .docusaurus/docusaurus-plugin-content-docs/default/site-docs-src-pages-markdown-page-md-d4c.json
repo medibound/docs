@@ -16,7 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Translate your site",
-    "permalink": "/docs/docs/tutorial-extras/translate-your-site"
+    "title": "Website",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Organizations",
+    "permalink": "/docs/understand-basics/organizations"
   }
 }

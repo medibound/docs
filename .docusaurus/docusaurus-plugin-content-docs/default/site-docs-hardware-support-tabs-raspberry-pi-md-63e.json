@@ -1,0 +1,27 @@
+{
+  "id": "hardware-support/tabs/raspberry-pi",
+  "title": "Raspberry Pi Integration Guide",
+  "description": "Documentation coming soon",
+  "source": "@site/docs/hardware-support/tabs/raspberry-pi.md",
+  "sourceDirName": "hardware-support/tabs",
+  "slug": "/hardware-support/tabs/raspberry-pi",
+  "permalink": "/docs/hardware-support/tabs/raspberry-pi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/hardware-support/tabs/raspberry-pi.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ESP32 Integration Guide",
+    "permalink": "/docs/hardware-support/tabs/esp32"
+  },
+  "next": {
+    "title": "Arduino Integration Guide",
+    "permalink": "/docs/hardware-support/tabs/arduino"
+  }
+}

@@ -16,8 +16,12 @@
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Arduino Integration Guide",
+    "permalink": "/docs/hardware-support/arduino"
+  },
   "next": {
-    "title": "Tutorial - Basics",
-    "permalink": "/docs/category/tutorial---basics"
+    "title": "Website",
+    "permalink": "/docs/"
   }
 }

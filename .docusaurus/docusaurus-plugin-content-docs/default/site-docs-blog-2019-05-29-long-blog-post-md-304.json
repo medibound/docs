@@ -30,14 +30,5 @@
       "hello",
       "docusaurus"
     ]
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "First Blog Post",
-    "permalink": "/docs/blog/first-blog-post"
-  },
-  "next": {
-    "title": "MDX Blog Post",
-    "permalink": "/docs/blog/mdx-blog-post"
   }
 }

@@ -11,14 +11,5 @@
   "editUrl": "https://github.com/medibound/docs/tree/main/docs/README.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Translate your site",
-    "permalink": "/docs/tutorial-extras/translate-your-site"
-  },
-  "next": {
-    "title": "First Blog Post",
-    "permalink": "/docs/blog/first-blog-post"
-  }
+  "frontMatter": {}
 }

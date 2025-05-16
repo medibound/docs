@@ -1,0 +1,23 @@
+{
+  "id": "understand-basics/agents",
+  "title": "Agents",
+  "description": "Agents are AI-powered digital assistants that enhance the Medibound ecosystem by providing intelligent automation, monitoring, and decision support for medical device management.",
+  "source": "@site/docs/understand-basics/agents.md",
+  "sourceDirName": "understand-basics",
+  "slug": "/understand-basics/agents",
+  "permalink": "/docs/understand-basics/agents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/understand-basics/agents.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Device Profiles",
+    "permalink": "/docs/understand-basics/device-profiles"
+  }
+}

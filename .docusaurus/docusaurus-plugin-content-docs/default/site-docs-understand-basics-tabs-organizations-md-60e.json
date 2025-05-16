@@ -1,0 +1,23 @@
+{
+  "id": "understand-basics/tabs/organizations",
+  "title": "Organizations",
+  "description": "Organizations are the foundational entities in the Medibound ecosystem, representing healthcare providers, medical device manufacturers, research institutions, and other entities that manage medical devices.",
+  "source": "@site/docs/understand-basics/tabs/organizations.md",
+  "sourceDirName": "understand-basics/tabs",
+  "slug": "/understand-basics/tabs/organizations",
+  "permalink": "/docs/understand-basics/tabs/organizations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/understand-basics/tabs/organizations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Device Profiles",
+    "permalink": "/docs/understand-basics/tabs/device-profiles"
+  }
+}

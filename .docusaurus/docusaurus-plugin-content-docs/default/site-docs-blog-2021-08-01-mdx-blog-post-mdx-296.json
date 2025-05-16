@@ -26,14 +26,5 @@
     "tags": [
       "docusaurus"
     ]
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "Long Blog Post",
-    "permalink": "/docs/blog/long-blog-post"
-  },
-  "next": {
-    "title": "Welcome",
-    "permalink": "/docs/blog/2021-08-26-welcome/welcome"
   }
 }

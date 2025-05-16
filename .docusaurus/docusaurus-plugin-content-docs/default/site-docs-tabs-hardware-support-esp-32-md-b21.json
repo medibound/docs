@@ -1,0 +1,27 @@
+{
+  "id": "tabs/hardware-support/esp32",
+  "title": "ESP32 Integration Guide",
+  "description": "The ESP32 is a powerful, low-cost microcontroller that's ideal for medical device integration with Medibound. This guide will walk you through setting up and implementing the Medibound ESP32 library.",
+  "source": "@site/docs/tabs/hardware-support/esp32.md",
+  "sourceDirName": "tabs/hardware-support",
+  "slug": "/tabs/hardware-support/esp32",
+  "permalink": "/docs/tabs/hardware-support/esp32",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/tabs/hardware-support/esp32.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supported Hardware",
+    "permalink": "/docs/tabs/hardware-support/"
+  },
+  "next": {
+    "title": "Supported Hardware",
+    "permalink": "/docs/tabs/hardware-support/"
+  }
+}

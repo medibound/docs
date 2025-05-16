@@ -27,7 +27,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.js",
+          "sidebarPath": "./docs/sidebars.js",
           "editUrl": "https://github.com/medibound/docs/tree/main/"
         },
         "theme": {
@@ -90,15 +90,6 @@ export default {
             {
               "label": "Tutorial",
               "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
-          "items": [
-            {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/medibound"
             }
           ]
         },

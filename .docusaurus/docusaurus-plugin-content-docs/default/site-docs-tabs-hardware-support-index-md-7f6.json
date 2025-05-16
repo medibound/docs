@@ -1,0 +1,29 @@
+{
+  "id": "tabs/hardware-support/index",
+  "title": "Supported Hardware",
+  "description": "Overview of all hardware platforms supported by Medibound",
+  "source": "@site/docs/tabs/hardware-support/index.md",
+  "sourceDirName": "tabs/hardware-support",
+  "slug": "/tabs/hardware-support/",
+  "permalink": "/docs/tabs/hardware-support/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/tabs/hardware-support/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Supported Hardware",
+    "description": "Overview of all hardware platforms supported by Medibound"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Agents",
+    "permalink": "/docs/tabs/understand-basics/agents"
+  },
+  "next": {
+    "title": "ESP32 Integration Guide",
+    "permalink": "/docs/tabs/hardware-support/esp32"
+  }
+}

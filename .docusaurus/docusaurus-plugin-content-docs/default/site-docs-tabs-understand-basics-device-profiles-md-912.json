@@ -1,0 +1,27 @@
+{
+  "id": "tabs/understand-basics/device-profiles",
+  "title": "Device Profiles",
+  "description": "A Device Profile is a comprehensive blueprint that defines how a medical device operates, communicates, and integrates within the Medibound ecosystem. It serves as the foundation for device management, data collection, and system integration.",
+  "source": "@site/docs/tabs/understand-basics/device-profiles.md",
+  "sourceDirName": "tabs/understand-basics",
+  "slug": "/tabs/understand-basics/device-profiles",
+  "permalink": "/docs/tabs/understand-basics/device-profiles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/tabs/understand-basics/device-profiles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Organizations",
+    "permalink": "/docs/tabs/understand-basics/organizations"
+  },
+  "next": {
+    "title": "Agents",
+    "permalink": "/docs/tabs/understand-basics/agents"
+  }
+}
