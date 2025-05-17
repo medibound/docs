@@ -1,104 +1,65 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/docs-e66": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/docs-7a7": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs-6dc": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+  "/docs-e51": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
-  "/docs-115": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs-2eb": {
+    "__comp": "a94703ab"
   },
   "/docs-36e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-233-c0b"
+    "__comp": "17896441",
+    "content": "23374ca6"
   },
   "/docs/hardware-support-bd6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hardware-supportb-72-b0e"
+    "__comp": "17896441",
+    "content": "b72c5265"
   },
   "/docs/hardware-support/tabs/arduino-261": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hardware-support-tabs-arduinoae-7-856"
+    "__comp": "17896441",
+    "content": "ae7961cb"
   },
   "/docs/hardware-support/tabs/esp32-e57": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hardware-support-tabs-esp-32-fcf-753"
+    "__comp": "17896441",
+    "content": "fcf72209"
   },
   "/docs/hardware-support/tabs/raspberry-pi-33a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hardware-support-tabs-raspberry-pi-63-e-c5e"
+    "__comp": "17896441",
+    "content": "63eb809a"
+  },
+  "/docs/understand-basics-47f": {
+    "__comp": "17896441",
+    "content": "3d095cb1"
   },
   "/docs/understand-basics/tabs/agents-8cb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-understand-basics-tabs-agents-794-604"
+    "__comp": "17896441",
+    "content": "79488f1e"
   },
   "/docs/understand-basics/tabs/device-profiles-813": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-understand-basics-tabs-device-profilese-19-0ed"
+    "__comp": "17896441",
+    "content": "e194be3d"
   },
   "/docs/understand-basics/tabs/organizations-5b5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-understand-basics-tabs-organizations-60-e-2a7"
+    "__comp": "17896441",
+    "content": "60e9ccef"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

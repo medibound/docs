@@ -35,6 +35,11 @@
               "path": "/docs/"
             },
             {
+              "id": "understand-basics/index",
+              "path": "/docs/understand-basics/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "understand-basics/tabs/agents",
               "path": "/docs/understand-basics/tabs/agents",
               "sidebar": "tutorialSidebar"

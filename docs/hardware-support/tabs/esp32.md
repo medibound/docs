@@ -157,9 +157,7 @@ Common issues and solutions:
    - Reduce payload size
    - Implement proper buffering
 
-## API Reference
 
-For detailed API documentation, refer to the [API Reference](../api/esp32-api.md).
 
 ## Support
 

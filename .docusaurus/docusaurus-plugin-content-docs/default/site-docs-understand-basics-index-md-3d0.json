@@ -1,0 +1,24 @@
+{
+  "id": "understand-basics/index",
+  "title": "index",
+  "description": "",
+  "source": "@site/docs/understand-basics/index.md",
+  "sourceDirName": "understand-basics",
+  "slug": "/understand-basics/",
+  "permalink": "/docs/understand-basics/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/medibound/docs/tree/main/docs/understand-basics/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Arduino Integration Guide",
+    "permalink": "/docs/hardware-support/tabs/arduino"
+  },
+  "next": {
+    "title": "Organizations",
+    "permalink": "/docs/understand-basics/tabs/organizations"
+  }
+}
